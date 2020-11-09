@@ -1,24 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Pandas Intro/Explanation
-
-# ## What is Pandas used for?
-
-# In[37]:
-
-
-print('In short, "[...] pandas is a software library written for the Python programming language for data manipulation and analysis." src = https://en.wikipedia.org/wiki/Pandas_(software)')
-
-
-# ## How to Install Pandas
-
-# In[28]:
-
-
-print('In your Anaconda/Miniconda Prompt, type and run "pip install pandas".')
-
-
 # ## Importing Pandas
 
 # In[2]:
